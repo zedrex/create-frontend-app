@@ -3,11 +3,6 @@
 ## Usage
 Run `npx create-frontend-app` and it will create a project folder named `client` with the bootstrap.
 
-## Todo
-- Modularize the tasks
-- Add an efficient way to get the custom components
-- Add directory argument
-
 ## Stack
 This bootstrap uses:
 - React
