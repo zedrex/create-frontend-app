@@ -1,6 +1,6 @@
 {
   "name": "@zedrex/create-frontend-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bootstrap for React, Chakra UI, React-Redux and React-Router in Typescript",
   "main": "src/index.js",
   "bin": {
