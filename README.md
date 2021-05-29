@@ -10,4 +10,3 @@ This bootstrap uses:
 - React Redux
 - Redux Thunk
 - React Router
-- Custom Components based on Chakra UI
