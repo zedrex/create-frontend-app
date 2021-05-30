@@ -32,9 +32,7 @@ export const createProject = async (options) => {
         targetDirectory: options.targetDirectory || process.cwd() + "\\client",
     };
 
-    const currentFileUrl = path
-        .parse(import.meta.url)
-        ["dir"].replace("file:///", "");
+    const currentFileUrl = import.meta.url;
 
     const templateDirectory = path.resolve(
         new URL(currentFileUrl).pathname,
